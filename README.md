@@ -1,4 +1,4 @@
-\# Task 3 – API Security Risk Analysis
+# Task 3 – API Security Risk Analysis
 
 
 
@@ -10,27 +10,27 @@ The objective of this task was to analyze API endpoints and identify potential s
 
 
 
-\---
+---
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\- Postman  
+- Postman  
 
-\- Browser Developer Tools  
+- Browser Developer Tools  
 
-\- Kali Linux Environment  
-
-
-
-\---
+- Kali Linux Environment  
 
 
 
-\## APIs Tested
+---
+
+
+
+## APIs Tested
 
 
 
@@ -38,19 +38,19 @@ The following public APIs were analyzed during this task:
 
 
 
-\- \*\*JSONPlaceholder API\*\*  
+- ** JSONPlaceholder API **  
 
 &#x20; https://jsonplaceholder.typicode.com  
 
 
 
-\- \*\*DummyJSON API\*\*  
+- ** DummyJSON API **  
 
 &#x20; https://dummyjson.com  
 
 
 
-\- \*\*ReqRes API\*\*  
+- ** ReqRes API **  
 
 &#x20; https://reqres.in  
 
@@ -60,11 +60,11 @@ These APIs provide simulated data for testing API interactions and security anal
 
 
 
-\---
+---
 
 
 
-\## Analysis Performed
+## Analysis Performed
 
 
 
@@ -72,15 +72,15 @@ During the testing process, several API security checks were conducted:
 
 
 
-\- Testing API endpoints for authentication requirements  
+- Testing API endpoints for authentication requirements  
 
-\- Checking authorization controls by modifying object identifiers  
+- Checking authorization controls by modifying object identifiers  
 
-\- Observing API responses for excessive data exposure  
+- Observing API responses for excessive data exposure  
 
-\- Testing input validation using modified query parameters  
+- Testing input validation using modified query parameters  
 
-\- Evaluating API behavior when sending repeated requests  
+- Evaluating API behavior when sending repeated requests  
 
 
 
@@ -88,11 +88,11 @@ Evidence screenshots were collected during the testing process and are included 
 
 
 
-\---
+---
 
 
 
-\## Disclaimer
+## Disclaimer
 
 
 
@@ -102,13 +102,14 @@ No exploitation attempts were made, and no real systems were targeted during thi
 
 
 
-\---
+---
 
 
 
-\## Author
+## Author
 
 
 
 SN Amogh
+
 
