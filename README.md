@@ -38,19 +38,19 @@ The following public APIs were analyzed during this task:
 
 
 
-- ** JSONPlaceholder API **  
+- ** JSONPlaceholder API
 
 &#x20; https://jsonplaceholder.typicode.com  
 
 
 
-- ** DummyJSON API **  
-
+- ** DummyJSON API
+- 
 &#x20; https://dummyjson.com  
 
 
 
-- ** ReqRes API **  
+- ** ReqRes API
 
 &#x20; https://reqres.in  
 
@@ -111,5 +111,6 @@ No exploitation attempts were made, and no real systems were targeted during thi
 
 
 SN Amogh
+
 
 
